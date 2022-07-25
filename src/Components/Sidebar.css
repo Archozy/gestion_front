@@ -1,0 +1,9 @@
+.bar {
+    color: white;
+    padding: 7% 7% 7% 30% !important;
+    cursor: pointer;
+}
+
+.bar:hover {
+    background: rgb(66, 66, 66);
+}

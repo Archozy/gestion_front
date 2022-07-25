@@ -1,0 +1,21 @@
+[
+    {
+    "login":
+        {
+            "connectionButton":"Sign in",
+            "forgottenPW":"Forgotten password",
+            "placeholder":{
+                "username":"Username",
+                "password":"Password"
+            },
+            "slider":{
+                "titleSliderOne":"L'ensemble de vos statistiques sur une seule interface",
+                "textSliderOne":"Basé sur une technologie de tracking, Data Driven vous fait découvrir le parcours de vos candidats et plus encore.",
+                "titleSliderTwo":"Obtenez un diagnostic précis des performances de vos annonces",
+                "TextSliderTwo":"La solution Data driven vous permet d’accéder une grande variété de KPI",
+                "titleSliderThree":"Piloter, analyser, rationaliser votre budget avec DataDriven",
+                "TextSliderThree":"Vous retrouverez l’entièreté de vos statistiques de vos abonnements aux divers supports emplois"
+            }
+        }
+    }
+]
